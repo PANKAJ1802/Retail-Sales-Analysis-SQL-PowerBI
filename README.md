@@ -1,14 +1,19 @@
-## Problem
+# Retail Sales Analysis
+
+## 📌 Objective
 Analyze retail sales data to identify trends and KPIs
 
-## Tools
+## 🛠 Tools
 SQL, Power BI
 
-## Process
+## 📊 Process
 - Data cleaning using SQL
-- KPI calculation (Revenue, Profit, Growth)
+- KPI calculation
 - Dashboard creation
 
-## Insights
-- Top performing categories
-- Seasonal trends
+## 📈 Insights
+- Top products
+- Revenue trends
+
+## 📷 Dashboard
+(Add screenshot here)
